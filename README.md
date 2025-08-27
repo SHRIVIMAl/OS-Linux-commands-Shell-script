@@ -1,5 +1,5 @@
-## NAME: KRIPAL R
-## REG NO.: 212224040165
+## NAME: T.K.SHRIVIMAL
+## REG NO.: 212224220101
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
